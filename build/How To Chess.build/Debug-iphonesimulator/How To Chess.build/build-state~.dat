@@ -1,0 +1,255 @@
+THow To Chess
+v7
+r0
+t332224317.747965
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/Info.plist" How_To_Chess-Info.plist
+cCompileXIB "/Users/weavermobilemacbookpro1/Desktop/How To Chess/MainWindow.xib"
+cCompileXIB "/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.xib"
+cProcessPCH /var/folders/B0/B0gW7oPPFOuS9kpw2Crmgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/How_To_Chess_Prefix-dwepgjigujixfddmdzntwczdypod/How_To_Chess_Prefix.pch.gch How_To_Chess_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/main.o" "/Users/weavermobilemacbookpro1/Desktop/How To Chess/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/How_To_ChessAppDelegate.o" "/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/How_To_ChessAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/BoardSetupViewController.o" "/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/How To Chess" normal i386
+cGenerateDSYMFile "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app.dSYM" "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/How To Chess"
+cTouch "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.h
+c000000004E1D1E2C0000000000000107
+t1310531116
+s263
+i<UIKit/UIKit.h>
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.m
+c000000004E1D1E2C00000000000005D1
+t1310531116
+s1489
+i"BoardSetupViewController.h"
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.xib
+c000000004E1D1E2C0000000000001883
+t1310531116
+s6275
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/How_To_ChessAppDelegate.h
+c000000004E1D1F3500000000000001E8
+t1310531381
+s488
+i<UIKit/UIKit.h>
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/How_To_ChessAppDelegate.m
+c000000004E1D1FB70000000000000ABF
+t1310531511
+s2751
+i"How_To_ChessAppDelegate.h"
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/How_To_Chess_Prefix.pch
+c000000004E1D1DCA00000000000000C1
+t1310531018
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/MainWindow.xib
+c000000004E1D1DCA0000000000002121
+t1310531018
+s8481
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app
+t1310531517
+s238
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app.dSYM
+t1310531517
+s102
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/BoardSetupViewController.nib
+t1310531516
+s764
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/How To Chess
+t1310531517
+s17392
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/Info.plist
+t1310531515
+s611
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/MainWindow.nib
+t1310531516
+s989
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/PkgInfo
+t1310531515
+s8
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/BoardSetupViewController.o
+t1310531517
+s37788
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/How To Chess.LinkFileList
+c000000004E1D1FBB00000000000001DA
+t1310531515
+s474
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/How_To_ChessAppDelegate.o
+t1310531517
+s52780
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/main.o
+t1310531517
+s6328
+
+N/Users/weavermobilemacbookpro1/Desktop/How To Chess/main.m
+c000000004E1D1DCA000000000000017C
+t1310531018
+s380
+i<UIKit/UIKit.h>
+
+N/var/folders/B0/B0gW7oPPFOuS9kpw2Crmgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/How_To_Chess_Prefix-dwepgjigujixfddmdzntwczdypod/How_To_Chess_Prefix.pch.gch
+t1310531517
+s15453392
+
+NHow_To_Chess-Info.plist
+c000000004E1D1DCA000000000000038D
+t1310531018
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332224315#332224315#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC "build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/BoardSetupViewController.o" "/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s332224317.362634
+e332224317.420115
+r1
+xCompileC
+xbuild/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/BoardSetupViewController.o
+x/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.m332224317#332224317#0(0"0(0#0#86"/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.m8615394496#2227"    cd "/Users/weavermobilemacbookpro1/Desktop/How To Chess"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-generated-files.hmap" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-own-target-headers.hmap" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-all-target-headers.hmap" -iquote "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-project-headers.hmap" "-F/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/include" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/DerivedSources/i386" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/DerivedSources" -include /var/folders/B0/B0gW7oPPFOuS9kpw2Crmgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/How_To_Chess_Prefix-dwepgjigujixfddmdzntwczdypod/How_To_Chess_Prefix.pch -c "/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.m" -o "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/BoardSetupViewController.o"0#
+
+CCompileC "build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/How_To_ChessAppDelegate.o" "/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/How_To_ChessAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s332224317.361948
+e332224317.446101
+r1
+xCompileC
+xbuild/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/How_To_ChessAppDelegate.o
+x/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/How_To_ChessAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/How_To_ChessAppDelegate.m332224317#332224317#0(0"0(0#0#85"/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/How_To_ChessAppDelegate.m8609150176#2225"    cd "/Users/weavermobilemacbookpro1/Desktop/How To Chess"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-generated-files.hmap" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-own-target-headers.hmap" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-all-target-headers.hmap" -iquote "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-project-headers.hmap" "-F/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/include" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/DerivedSources/i386" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/DerivedSources" -include /var/folders/B0/B0gW7oPPFOuS9kpw2Crmgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/How_To_Chess_Prefix-dwepgjigujixfddmdzntwczdypod/How_To_Chess_Prefix.pch -c "/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/How_To_ChessAppDelegate.m" -o "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/How_To_ChessAppDelegate.o"0#
+
+CCompileC "build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/main.o" "/Users/weavermobilemacbookpro1/Desktop/How To Chess/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s332224317.361106
+e332224317.409546
+r1
+xCompileC
+xbuild/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/main.o
+x/Users/weavermobilemacbookpro1/Desktop/How To Chess/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/weavermobilemacbookpro1/Desktop/How To Chess/main.m332224317#332224317#0(0"0(0#0#58"/Users/weavermobilemacbookpro1/Desktop/How To Chess/main.m8616387968#2179"    cd "/Users/weavermobilemacbookpro1/Desktop/How To Chess"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-generated-files.hmap" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-own-target-headers.hmap" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-all-target-headers.hmap" -iquote "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-project-headers.hmap" "-F/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/include" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/DerivedSources/i386" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/DerivedSources" -include /var/folders/B0/B0gW7oPPFOuS9kpw2Crmgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/How_To_Chess_Prefix-dwepgjigujixfddmdzntwczdypod/How_To_Chess_Prefix.pch -c "/Users/weavermobilemacbookpro1/Desktop/How To Chess/main.m" -o "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.xib"
+s332224315.627929
+e332224316.191329
+r1
+xCompileXIB
+x/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.xib
+lSLF07#2@47"CompileXIB Classes/BoardSetupViewController.xib332224315#332224316#0(0"0(0#0#88"/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.xib8616249024#656"    cd "/Users/weavermobilemacbookpro1/Desktop/How To Chess"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/BoardSetupViewController.nib" "/Users/weavermobilemacbookpro1/Desktop/How To Chess/Classes/BoardSetupViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/weavermobilemacbookpro1/Desktop/How To Chess/MainWindow.xib"
+s332224315.627141
+e332224316.192273
+r1
+xCompileXIB
+x/Users/weavermobilemacbookpro1/Desktop/How To Chess/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332224315#332224316#0(0"0(0#0#66"/Users/weavermobilemacbookpro1/Desktop/How To Chess/MainWindow.xib8616411456#620"    cd "/Users/weavermobilemacbookpro1/Desktop/How To Chess"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/MainWindow.nib" "/Users/weavermobilemacbookpro1/Desktop/How To Chess/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app.dSYM" "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/How To Chess"
+s332224317.707617
+e332224317.732767
+r1
+xGenerateDSYMFile
+x/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app.dSYM
+x/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/How To Chess
+lSLF07#2@128"GenerateDSYMFile "build/Debug-iphonesimulator/How To Chess.app.dSYM" "build/Debug-iphonesimulator/How To Chess.app/How To Chess"332224317#332224317#0(0"0(0#0#109"/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/How To Chess8608597696#443"    cd "/Users/weavermobilemacbookpro1/Desktop/How To Chess"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/How To Chess" -o "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app.dSYM"0#
+
+CLd "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/How To Chess" normal i386
+s332224317.446263
+e332224317.707419
+r1
+xLd
+x/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/How To Chess
+xnormal
+xi386
+lSLF07#2@114"Link /Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/How To Chess332224317#332224317#0(0"0(0#0#0"8609478560#1000"    cd "/Users/weavermobilemacbookpro1/Desktop/How To Chess"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator" "-F/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator" -filelist "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/Objects-normal/i386/How To Chess.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/How To Chess"0#
+
+CProcessInfoPlistFile "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/Info.plist" How_To_Chess-Info.plist
+s332224315.624082
+e332224315.627027
+r1
+xProcessInfoPlistFile
+x/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/Info.plist
+xHow_To_Chess-Info.plist
+lSLF07#2@31"Process How_To_Chess-Info.plist332224315#332224315#0(0"0(0#0#75"/Users/weavermobilemacbookpro1/Desktop/How To Chess/How_To_Chess-Info.plist8603834016#539"    cd "/Users/weavermobilemacbookpro1/Desktop/How To Chess"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility How_To_Chess-Info.plist -genpkginfo "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app/Info.plist"0#
+
+CProcessPCH /var/folders/B0/B0gW7oPPFOuS9kpw2Crmgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/How_To_Chess_Prefix-dwepgjigujixfddmdzntwczdypod/How_To_Chess_Prefix.pch.gch How_To_Chess_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332224316.192358
+e332224317.360982
+r1
+xProcessPCH
+x/var/folders/B0/B0gW7oPPFOuS9kpw2Crmgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/How_To_Chess_Prefix-dwepgjigujixfddmdzntwczdypod/How_To_Chess_Prefix.pch.gch
+xHow_To_Chess_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile How_To_Chess_Prefix.pch332224316#332224317#0(0"0(0#0#75"/Users/weavermobilemacbookpro1/Desktop/How To Chess/How_To_Chess_Prefix.pch8609061184#2051"    cd "/Users/weavermobilemacbookpro1/Desktop/How To Chess"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-generated-files.hmap" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-own-target-headers.hmap" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-all-target-headers.hmap" -iquote "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/How To Chess-project-headers.hmap" "-F/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/include" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/DerivedSources/i386" "-I/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/How To Chess.build/Debug-iphonesimulator/How To Chess.build/DerivedSources" -c "/Users/weavermobilemacbookpro1/Desktop/How To Chess/How_To_Chess_Prefix.pch" -o /var/folders/B0/B0gW7oPPFOuS9kpw2Crmgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/How_To_Chess_Prefix-dwepgjigujixfddmdzntwczdypod/How_To_Chess_Prefix.pch.gch0#
+
+CTouch "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app"
+s332224317.732840
+e332224317.747926
+r1
+xTouch
+x/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app
+lSLF07#2@102"Touch /Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app332224317#332224317#0(0"0(0#0#0"8614779488#313"    cd "/Users/weavermobilemacbookpro1/Desktop/How To Chess"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weavermobilemacbookpro1/Desktop/How To Chess/build/Debug-iphonesimulator/How To Chess.app"0#
+

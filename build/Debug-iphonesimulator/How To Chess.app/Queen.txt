@@ -1,0 +1,4 @@
+[Name "Queen"]
+1. e4 e5
+2. Qg4 Qg5
+3. Qxg5

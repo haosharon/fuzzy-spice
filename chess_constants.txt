@@ -1,0 +1,23 @@
+prefs:
+[@"Saved Games" : array of games]
+
+game = [game info (dictionary), moves (array)]
+
+game info {
+	Date/Time ##
+	White ##
+	Black ##
+	Result ##
+	Event
+	Round
+	Place
+}
+
+prefs:
+[@"Saved States": array of saved states (first one is regular set up)]
+saved state = [state info (dictionary), pieces(array)]
+
+[@"Settings": dictionary of information/preferences]
+Name
+Rating
+Email
